@@ -1,0 +1,71 @@
+sim-fpu.o: \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-fpu.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-basics.h \
+ config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/callback.h \
+ ../../bfd/bfd.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/symcat.h \
+ ../../bfd/bfd_stdint.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/diagnostics.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/remote-sim.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-inline.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-types.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-bits.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-endian.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-signal.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/signals.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/signals.def \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-utils.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/libiberty.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-fpu.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-io.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-assert.h
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-basics.h:
+
+config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/callback.h:
+
+../../bfd/bfd.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/symcat.h:
+
+../../bfd/bfd_stdint.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/diagnostics.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/remote-sim.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-inline.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-types.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-bits.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-endian.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-signal.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/signals.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/signals.def:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-utils.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/libiberty.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-fpu.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-io.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/sim-assert.h:

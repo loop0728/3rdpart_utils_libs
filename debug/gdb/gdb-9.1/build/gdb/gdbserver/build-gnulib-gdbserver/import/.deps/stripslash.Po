@@ -1,0 +1,20 @@
+stripslash.o: \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/stripslash.c \
+ /tools/toolchain/gcc-sigmastar-9.1.0-2020.07-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ ../config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/dirname.h \
+ /tools/toolchain/gcc-sigmastar-9.1.0-2020.07-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/9.1.0/include/stdbool.h \
+ /tools/toolchain/gcc-sigmastar-9.1.0-2020.07-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/9.1.0/include/stddef.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/dosname.h
+
+/tools/toolchain/gcc-sigmastar-9.1.0-2020.07-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h:
+
+../config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/dirname.h:
+
+/tools/toolchain/gcc-sigmastar-9.1.0-2020.07-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/9.1.0/include/stdbool.h:
+
+/tools/toolchain/gcc-sigmastar-9.1.0-2020.07-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/9.1.0/include/stddef.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/dosname.h:

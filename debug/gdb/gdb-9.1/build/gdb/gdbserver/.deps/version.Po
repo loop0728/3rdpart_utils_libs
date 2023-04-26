@@ -1,0 +1,4 @@
+version.o: version-generated.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/version.h
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/version.h:

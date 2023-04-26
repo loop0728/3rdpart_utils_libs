@@ -1,0 +1,8 @@
+ACTION=="add", SUBSYSTEM=="sound", KERNEL=="controlC*", KERNELS!="card*", TEST=="/home/koda.xu/github_prj/alsa-lib/alsa_output/alsa-1.2.7.2/alsa_lib/alsa/sbin", TEST=="/home/koda.xu/github_prj/alsa-lib/alsa_output/alsa-1.2.7.2/alsa_lib/alsa/share/alsa", GOTO="alsa_restore_go"
+GOTO="alsa_restore_end"
+
+LABEL="alsa_restore_go"
+TEST!="/etc/alsa/state-daemon.conf", RUN+="/home/koda.xu/github_prj/alsa-lib/alsa_output/alsa-1.2.7.2/alsa_lib/alsa/sbin/alsactl restore $attr{device/number}"
+TEST=="/etc/alsa/state-daemon.conf", RUN+="/home/koda.xu/github_prj/alsa-lib/alsa_output/alsa-1.2.7.2/alsa_lib/alsa/sbin/alsactl nrestore $attr{device/number}"
+
+LABEL="alsa_restore_end"

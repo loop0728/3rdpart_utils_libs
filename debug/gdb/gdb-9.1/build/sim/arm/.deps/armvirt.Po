@@ -1,0 +1,14 @@
+armvirt.o: \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armvirt.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armdefs.h \
+ config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armdefs.h:
+
+config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h:

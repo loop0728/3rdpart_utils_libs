@@ -1,0 +1,4 @@
+xml-builtin.o: xml-builtin.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/xml-builtin.h
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/xml-builtin.h:

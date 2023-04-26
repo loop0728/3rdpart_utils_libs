@@ -1,0 +1,1 @@
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/config/nm-linux.h

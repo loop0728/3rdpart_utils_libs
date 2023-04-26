@@ -1,0 +1,46 @@
+armos.o: /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.c \
+ config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/libiberty.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h \
+ targ-vals.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armdefs.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armemu.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armfpe.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/dbg_rdi.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/callback.h \
+ ../../bfd/bfd.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/symcat.h \
+ ../../bfd/bfd_stdint.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/diagnostics.h
+
+config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/libiberty.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h:
+
+targ-vals.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armdefs.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armemu.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armfpe.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/dbg_rdi.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/callback.h:
+
+../../bfd/bfd.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/symcat.h:
+
+../../bfd/bfd_stdint.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/diagnostics.h:

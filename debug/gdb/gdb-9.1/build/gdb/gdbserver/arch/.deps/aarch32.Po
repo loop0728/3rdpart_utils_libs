@@ -1,0 +1,109 @@
+arch/aarch32.o: \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/aarch32.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-defs.h \
+ config.h build-gnulib-gdbserver/config.h \
+ build-gnulib-gdbserver/import/stdio.h \
+ build-gnulib-gdbserver/import/stdlib.h \
+ build-gnulib-gdbserver/import/string.h \
+ build-gnulib-gdbserver/import/time.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/ansidecl.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/libiberty.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/ansidecl.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/pathmax.h \
+ build-gnulib-gdbserver/import/unistd.h \
+ build-gnulib-gdbserver/import/limits.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/gdb/signals.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/gdb/signals.def \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_locale.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/ptid.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-types.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-utils.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/poison.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/traits.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/obstack.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_string_view.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_assert.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/errors.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_string_view.tcc \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/print-utils.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-debug.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/cleanups.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-exceptions.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/poison.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_unique_ptr.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/aarch32.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/tdesc.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/../features/arm/arm-core.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/../features/arm/arm-vfpv3.c
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-defs.h:
+
+config.h:
+
+build-gnulib-gdbserver/config.h:
+
+build-gnulib-gdbserver/import/stdio.h:
+
+build-gnulib-gdbserver/import/stdlib.h:
+
+build-gnulib-gdbserver/import/string.h:
+
+build-gnulib-gdbserver/import/time.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/ansidecl.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/libiberty.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/ansidecl.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../gnulib/import/pathmax.h:
+
+build-gnulib-gdbserver/import/unistd.h:
+
+build-gnulib-gdbserver/import/limits.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/gdb/signals.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/gdb/signals.def:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_locale.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/ptid.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-types.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-utils.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/poison.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/traits.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../../include/obstack.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_string_view.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_assert.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/errors.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_string_view.tcc:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/print-utils.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-debug.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/cleanups.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/common-exceptions.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/poison.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/gdb_unique_ptr.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/aarch32.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../gdbsupport/tdesc.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/../features/arm/arm-core.c:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/gdb/gdbserver/../arch/../features/arm/arm-vfpv3.c:

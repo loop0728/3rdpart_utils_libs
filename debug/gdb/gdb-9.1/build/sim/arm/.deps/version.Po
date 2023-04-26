@@ -1,0 +1,4 @@
+version.o: version.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/version.h
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../common/version.h:

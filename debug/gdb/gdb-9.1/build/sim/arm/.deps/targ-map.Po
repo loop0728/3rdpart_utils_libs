@@ -1,0 +1,24 @@
+targ-map.o: targ-map.c config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/callback.h \
+ ../../bfd/bfd.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/symcat.h \
+ ../../bfd/bfd_stdint.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/diagnostics.h \
+ targ-vals.h
+
+config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/ansidecl.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/gdb/callback.h:
+
+../../bfd/bfd.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/symcat.h:
+
+../../bfd/bfd_stdint.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/../../include/diagnostics.h:
+
+targ-vals.h:

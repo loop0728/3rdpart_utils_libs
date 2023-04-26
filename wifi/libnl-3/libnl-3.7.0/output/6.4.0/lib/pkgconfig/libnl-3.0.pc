@@ -1,0 +1,11 @@
+prefix=/home/koda.xu/github_prj/wifi_libs/libnl-3/libnl-3.7.0/output/6.4.0
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libnl
+Description: Convenience library for netlink sockets
+Version: 3.7.0
+Libs: -L${libdir} -lnl-3
+Libs.private: -lpthread 
+Cflags: -I${includedir}/libnl3

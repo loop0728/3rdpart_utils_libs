@@ -1,0 +1,14 @@
+thumbemu.o: \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/thumbemu.c \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armdefs.h \
+ config.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armemu.h \
+ /home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.h
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armdefs.h:
+
+config.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armemu.h:
+
+/home/koda.xu/github_prj/debug_tools/gdb/gdb-9.1/sim/arm/armos.h:
