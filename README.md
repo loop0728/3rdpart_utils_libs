@@ -9,6 +9,7 @@ Common third-party tools and libraries.
 │   ├── libmad
 │   └── tinyalsa
 ├── common                       // 其它常用工具依赖的lib
+│   ├── mtd-utils
 │   ├── ncurses
 │   └── readline
 ├── debug                        // debug常用工具
@@ -17,7 +18,6 @@ Common third-party tools and libraries.
 │   ├── i2c-tools-4.3
 │   ├── mathomatic
 │   ├── memtester-4.3
-│   ├── mtd-utils
 │   ├── procrank_linux
 │   ├── strace
 │   └── stress-ng-0.06.15
